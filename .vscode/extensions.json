@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "sonarsource.sonarlint-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "formulahendry.code-runner",
+    "christian-kohler.path-intellisense",
+    "spmeesseman.vscode-taskexplorer",
+    "vsls-contrib.gistfs",
+    "christian-kohler.npm-intellisense",
+    "visualstudioexptteam.vscodeintellicode",
+    "pflannery.vscode-versionlens"
+  ]
+}
